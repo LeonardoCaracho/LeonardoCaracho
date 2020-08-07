@@ -9,7 +9,7 @@
     <a href="https://github.com/LeonardoCaracho?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
 
-Hi! i'am Leonardo from Brazil (🇧🇷). I'm Sofware Engineer at [Sity Inc](https://www.sityinc.com/). 
+Hi, i'am Leonardo and work as Sofware Engineer at [Sity Inc](https://www.sityinc.com/). 
 
 
 
@@ -33,4 +33,4 @@ Hi! i'am Leonardo from Brazil (🇧🇷). I'm Sofware Engineer at [Sity Inc](htt
   <img alt="Email - Leonardo Caracho" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 
----
+
