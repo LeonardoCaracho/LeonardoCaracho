@@ -9,7 +9,7 @@
     <a href="https://github.com/LeonardoCaracho?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
 
-Hi, i'am Leonardo and work as Sofware Engineer at [Sity Inc](https://www.sityinc.com/). 
+Hi, i'am Leonardo and work as a Sofware Engineer at [Sity Inc](https://www.sityinc.com/). 
 
 
 
