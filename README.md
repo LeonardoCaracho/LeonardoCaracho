@@ -13,10 +13,6 @@ Hi, i'am Leonardo and work as a Sofware Engineer at [Sity Inc](https://www.sityi
 
 
 
-![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoCaracho&count_private=true&show_icons=true&theme=dracula)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocaracho&count_private=true&layout=compact)](https://github.com/leonardocaracho/github-readme-stats)
 
 
