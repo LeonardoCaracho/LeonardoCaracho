@@ -9,9 +9,6 @@
     <a href="https://github.com/LeonardoCaracho?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a></p>
 
 
-Hi, i'am Leonardo and work as a Sofware Engineer at [Sity Inc](https://www.sityinc.com/). 
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocaracho&count_private=true&layout=compact)](https://github.com/leonardocaracho/github-readme-stats)
 
