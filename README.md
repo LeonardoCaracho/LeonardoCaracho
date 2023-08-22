@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align="center" style="margin-bottom:100px" width=100% src="https://gist.github.com/LeonardoCaracho/946c4b85d3443fc4bf4743674889ae0b/raw/3a51794cab5ed7d08a2ff153d1b140a2e789fb95/github-header-image.png" />
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://flutter.dev/">
- <img align="center" alt="LeonardoCaracho-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">
-</a>
-<a href="https://www.apple.com/br/swift/">
- <img align="center" alt="LeonardoCaracho-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg">
-</a>
-<a href="https://www.typescriptlang.org/">
- <img align="center" alt="LeonardoCaracho-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-</a>
-<a href="https://www.firebase.com">
- <img align="center" alt="LeonardoCaracho-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
-</a>
+<p align="center">I ❤️ use tech to improve people's lives. <br><br> From backend development using NestJS to mobile development using Flutter and Swift, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on mobile development.</p>&nbsp;
 
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=leonardocaracho&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-leonardocaracho.vercel.app/api/top-langs/?username=leonardocaracho&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
+
+Let's connect! 🌟
+
+<div> 
+<a href="https://www.instagram.com/leonardo.carachi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:contato.leeo.apc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/leonardo-caracho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://medium.com/@leonardocaracho" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+
+### Top Skills:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)!![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
