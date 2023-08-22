@@ -9,5 +9,8 @@
 <a href="https://www.typescriptlang.org/">
  <img align="center" alt="LeonardoCaracho-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
 </a>
+<a href="https://www.firebase.com">
+ <img align="center" alt="LeonardoCaracho-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
+</a>
 
 
