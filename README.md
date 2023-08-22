@@ -1,16 +1,9 @@
-### Hi there 👋
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://flutter.dev/">
- <img align="center" alt="LeonardoCaracho-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg">
-</a>
-<a href="https://www.apple.com/br/swift/">
- <img align="center" alt="LeonardoCaracho-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg">
-</a>
-<a href="https://www.typescriptlang.org/">
- <img align="center" alt="LeonardoCaracho-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-</a>
-<a href="https://www.firebase.com">
- <img align="center" alt="LeonardoCaracho-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg">
-</a>
+Let's connect! 🌟
+
+[![Linkedin: Leonardo](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-caracho/)](https://www.linkedin.com/in/leonardo-caracho/)
+[![GitHub Leonardo](https://img.shields.io/github/followers/leonardocaracho?label=follow&style=social)](https://github.com/leonardocaracho)
 
 
