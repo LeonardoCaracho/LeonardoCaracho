@@ -1,4 +1,4 @@
-<p align="center">I ❤️ to use tech to improve people's lives. <br><br> From backend development using NestJS to mobile development using Flutter and Swift, I'm thrilled to study about design patterns, SOLID and how I can apply them to write more robust and maintainable code. Today, I'm a <strong>full stack mid-level developer</strong> focused on mobile development.</p>&nbsp;
+From backend development using NestJS to mobile development using Flutter and Swift, I'm thrilled to study about design patterns, SOLID and how I can apply them to write more robust and maintainable code. Today, I'm a <strong>full stack mid-level developer</strong> focused on mobile development.</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
