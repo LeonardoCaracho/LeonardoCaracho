@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://gist.github.com/LeonardoCaracho/946c4b85d3443fc4bf4743674889ae0b/raw/3a51794cab5ed7d08a2ff153d1b140a2e789fb95/github-header-image.png" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">I ❤️ to use tech to improve people's lives. <br><br> From backend development using NestJS to mobile development using Flutter and Swift, I'm thrilled to study about design patterns, SOLID and how I can apply them to write more robust and maintainable code. Today, I'm a <strong>full stack mid-level developer</strong> focused on mobile development.</p>&nbsp;
 
 
